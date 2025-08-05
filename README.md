@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1000&color=CBA6F7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Automation+Tools+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=CBA6F7&center=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Automation+Tools+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+
+<div align="center">
+  <hr style="width:30%; height:2px; background-color:#ccc; border:none;">
+</div>
 
 # 💫 About Me
 
