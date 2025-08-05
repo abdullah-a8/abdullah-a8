@@ -14,9 +14,3 @@ I’m passionate about using AI and automation to build tools that save time and
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdullah-a8&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=abdullah-a8&icon=2&color=1)](https://visitcount.itsvg.in)
