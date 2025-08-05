@@ -1,4 +1,15 @@
 # 💫 About Me:
+
+I'm passionate about using **AI and automation** to build tools that save time and solve **real world problems**.
+
+I enjoy learning new technologies in **web and mobile development** and refining my skills in **database design and performance**.
+
+This GitHub is a window into my journey as I explore and grow in these areas.
+
+Feel free to explore my projects and **connect if you'd like to collaborate**!
+
+
+## 🌐 Socials:
 I’m passionate about using AI and automation to build tools that save time and solve real world problems. <br>I enjoy learning new technologies in web and mobile development and refining my skills in database design and performance. <br>This GitHub is a window into my journey as I explore and grow in these areas. <br>Feel free to explore my projects and connect if you’d like to collaborate!
 
 
