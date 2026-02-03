@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=CBA6F7&width=750&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Automation+Tools+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=CBA6F7&width=750&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # 💫 About Me
 
@@ -14,47 +14,47 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 # 💻 Tech Stack
 
-### 🌐 Frontend
+## 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,materialui,astro&perline=9" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,fastapi,java,cs,c,cpp,graphql&perline=10" />
 </p>
 
-### 📱 Mobile & Desktop
+## 📱 Mobile & Desktop
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron&perline=8" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&perline=8" />
 </p>
 
-### 🤖 AI/ML & Data Science
+## 🤖 AI/ML & Data Science
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
 </p>
 
-### ☁️ Cloud & Hosting
+## ☁️ Cloud & Hosting
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku&perline=8" />
 </p>
 
-### 🛠️ DevOps & Tools
+## 🛠️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" />
 </p>
 
-### 🖥️ Operating Systems & Editors
+## 🖥️ Operating Systems & Editors
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim&perline=8" />
 </p>
 
-### 🎮 Game Development
+## 🎮 Game Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity&perline=8" />
 </p>  
