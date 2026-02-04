@@ -11,14 +11,14 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 ## 🔗 Connect
 <p>
-  <a href="https://linkedin.com/in/abdullahamin8">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-  <a href="https://abdullahamin.dev">
-    <img src="./icons/Portfolio.svg" height="48" />
-  </a>
+  <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
+    <img src="./icons/Portfolio.svg" height="48" style="vertical-align: middle;" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:hi@abdullahamin.dev">
-    <img src="./icons/Email.svg" height="48" />
+    <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
   </a>
 </p> 
 
