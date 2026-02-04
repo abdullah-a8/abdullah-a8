@@ -9,8 +9,18 @@ I enjoy learning new technologies in **web and mobile development** and refining
 Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahamin8) 
+## 🔗 Connect
+<p>
+  <a href="https://linkedin.com/in/abdullahamin8">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+  <a href="https://abdullahamin.dev">
+    <img src="./icons/Portfolio.svg" height="48" />
+  </a>
+  <a href="mailto:hi@abdullahamin.dev">
+    <img src="./icons/Email.svg" height="48" />
+  </a>
+</p> 
 
 # 💻 Tech Stack
 
