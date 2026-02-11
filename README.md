@@ -8,14 +8,15 @@ I enjoy learning new technologies in **web and mobile development** and refining
 
 Feel free to explore my projects and **connect if you'd like to collaborate**!
 
+<a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+
 
 ## 🔗 Connect
 <p>
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
-  </a>&nbsp;&nbsp;
-  <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
-    <img src="./icons/Portfolio.svg" height="48" style="vertical-align: middle;" />
   </a>&nbsp;&nbsp;
   <a href="mailto:hi@abdullahamin.dev">
     <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
