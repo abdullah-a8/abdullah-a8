@@ -73,9 +73,9 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 <br/>  
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-alpha-lemon.vercel.app/api?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-alpha-lemon.vercel.app/api/top-langs/?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
