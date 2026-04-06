@@ -74,7 +74,7 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-alpha-lemon.vercel.app/api?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats-alpha-lemon.vercel.app/api/top-langs/?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
