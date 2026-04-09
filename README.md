@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/cards/languages-dark.svg" width="400" alt="Most used programming languages" />
+  <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/cards/languages-dark.svg" width="400" alt="Top languages" />
   <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/cards/summary-dark.svg" width="400" alt="GitHub stats" />
 </p>
 
