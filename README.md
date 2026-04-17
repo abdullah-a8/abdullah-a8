@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/cards/about-dark.svg" width="400" alt="About: I take software from an idea to something running in the real world. Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems programming." />
-  <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/main/assets/stack.svg" width="400" alt="Core stack: Python, TypeScript, Rust, React, Next.js, Tailwind, FastAPI, PostgreSQL, Docker, PyTorch, OpenCV, Qdrant" />
+  <img src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/main/assets/stack.svg" width="400" alt="Stack: Python, TypeScript, Rust, React, Next.js, Tailwind, FastAPI, PostgreSQL, Docker, PyTorch, OpenCV, Qdrant" />
 </p>
 
 <p align="center">
