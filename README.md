@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amin-313244?style=for-the-badge&amp;logo=linkedin&amp;logoColor=CBA6F7&amp;labelColor=45475A" alt="LinkedIn" />
   </a>
   <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-abdullahamin.dev-313244?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=CBA6F7&amp;labelColor=45475A" alt="Personal site" />
+    <img src="https://img.shields.io/badge/Portfolio-abdullahamin.dev-313244?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=CBA6F7&amp;labelColor=45475A" alt="Portfolio" />
   </a>
 </p>
 
