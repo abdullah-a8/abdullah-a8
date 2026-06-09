@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&amp;card_width=804&amp;card_height=150&amp;border_radius=6&amp;background=1E1E2E&amp;hide_border=true&amp;stroke=313244&amp;ring=CBA6F7&amp;fire=CBA6F7&amp;currStreakNum=BAC2DE&amp;sideNums=BAC2DE&amp;currStreakLabel=CBA6F7&amp;sideLabels=A6ADC8&amp;dates=7F849C&amp;cachebust=20261108" width="804" alt="Commit streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&amp;card_width=804&amp;card_height=150&amp;border_radius=6&amp;background=1E1E2E&amp;hide_border=true&amp;stroke=313244&amp;ring=CBA6F7&amp;fire=CBA6F7&amp;currStreakNum=BAC2DE&amp;sideNums=BAC2DE&amp;currStreakLabel=CBA6F7&amp;sideLabels=A6ADC8&amp;dates=7F849C&amp;cachebust=20261108" width="804" alt="GitHub streak" />
 </p>
