@@ -89,7 +89,7 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&cachebust=20260701" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260701" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
