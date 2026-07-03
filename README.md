@@ -95,8 +95,11 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers,-Reviews&cachebust=20260701)
 
-## 🐍 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/snake-output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg" alt="Isometric GitHub contribution chart" />
+  </picture>
 </p>
