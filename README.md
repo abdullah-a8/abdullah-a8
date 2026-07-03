@@ -93,7 +93,7 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers,-Reviews&cachebust=20260701)
+![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers&cachebust=20260701)
 
 ## 📊 Contribution Graph
 
