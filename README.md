@@ -14,14 +14,14 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 
 ## 🔗 Connect
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
   </a>&nbsp;&nbsp;
   <a href="mailto:hi@abdullahamin.dev">
     <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
   </a>
-</p> 
+</p>
 
 # 💻 Tech Stack
 
@@ -94,3 +94,9 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers,-Reviews&cachebust=20260701)
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/abdullah-a8/abdullah-a8/snake-output/snake.svg" alt="Snake animation" />
+</p>
