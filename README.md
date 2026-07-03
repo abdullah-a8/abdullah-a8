@@ -73,9 +73,24 @@ Feel free to explore my projects and **connect if you'd like to collaborate**!
 <br/>  
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-alpha-lemon.vercel.app/api?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&cachebust=20260701)<br/>
-![](https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&cachebust=20260701)<br/>
-![](https://github-readme-stats-alpha-lemon.vercel.app/api/top-langs/?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cachebust=20260701)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260701" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Commits" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&cachebust=20260701" alt="GitHub Streak" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&cachebust=20260701)
+![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers,-Reviews&cachebust=20260701)
