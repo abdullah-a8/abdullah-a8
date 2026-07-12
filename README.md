@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I'm enthusiastic about using **AI and automation** to build tools that save time and solve **real world problems**.
+I'm driven to use **AI and automation** to build tools that save time and solve **real world problems**.
 
 I enjoy learning new technologies in **web and mobile development** and refining my skills in **database design and performance**. This GitHub is a window into my journey as I explore and grow in these areas.
 
