@@ -2,9 +2,9 @@
 
 # 💫 About Me
 
-I'm passionate about using **AI and automation** to build tools that save time and solve **real world problems**.
+Most of what's here started with something that annoyed me. A task I didn't want to do twice, a service with no API, a workflow that was slower than it needed to be. I'm too lazy to put up with that stuff, so I build my way around it.
 
-I enjoy learning new technologies in **web and mobile development** and refining my skills in **database design and performance**. This GitHub is a window into my journey as I explore and grow in these areas.
+The repos below are the results. Some are polished, some are weekend experiments that got out of hand. The READMEs are honest about which is which.
 
 Feel free to explore my projects and **connect if you'd like to collaborate**!
 
