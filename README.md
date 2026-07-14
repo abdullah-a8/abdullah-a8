@@ -6,7 +6,7 @@ Most of what's here started with something that annoyed me. A task I didn't want
 
 The repos below are the results. Some are polished, some are weekend experiments that got out of hand. The READMEs are honest about which is which.
 
-Feel free to explore my projects and **connect if you'd like to collaborate**!
+If something here is useful to you, or you're building something similar, say hi.
 
 <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
