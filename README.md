@@ -91,7 +91,7 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260717-2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260717-3" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
