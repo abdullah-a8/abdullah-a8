@@ -89,7 +89,7 @@ If something here is useful to you, or you're building something similar, say hi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260717" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260717-2" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
