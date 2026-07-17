@@ -81,17 +81,17 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260701" alt="Productive Time" />
+  <img src="https://github-readme-stats-alpha-lemon.vercel.app/api?username=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border_color=1E1E2E&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260701" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Repository" />
 </p>
 
 ## 🏆 GitHub Trophies
