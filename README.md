@@ -91,7 +91,7 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260722" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -101,7 +101,7 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg" alt="Isometric GitHub contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260722" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260722" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
