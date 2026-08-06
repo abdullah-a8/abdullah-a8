@@ -77,17 +77,17 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260701" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260807" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260701" alt="Top Languages by Commits" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Commits" />
 </p>
 
 <p align="center">
