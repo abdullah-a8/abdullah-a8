@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I like taking software from an **idea** to something **running in the real world**.
+I enjoy taking software from an **idea** to something **running in the real world**.
 
 Most projects start with a problem I want to solve or something I think could work better: a repetitive task, a slow workflow, or a service that does not quite do what I need. Some become focused tools, while others grow into **complete systems that I design, deploy, and continue to improve**.
 
