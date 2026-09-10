@@ -8,7 +8,7 @@ Most projects start with a problem I want to solve or something I think could wo
 
 I enjoy the whole process: understanding the problem, working through the messy parts, refining the details, and finally putting the result out there. Sometimes there is a practical reason to build something. Sometimes **the problem is interesting and shipping it is reason enough**.
 
-For me, the satisfying part is not just figuring something out. It is finishing it well enough to put it into the world.
+For me, the satisfying part is not just figuring something out. It is finishing it well enough to ship.
 
 <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
