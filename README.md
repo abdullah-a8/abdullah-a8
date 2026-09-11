@@ -6,7 +6,7 @@ I like taking software from an **idea** to something **running in the real world
 
 Most projects start with a problem I want to solve or something I think could work better: a repetitive task, a slow workflow, or a service that does not quite do what I need. Some become focused tools, while others grow into **complete systems that I design, deploy, and continue to improve**.
 
-I enjoy the whole process: understanding the problem, working through the messy parts, refining the details, and finally putting the result out there. Sometimes there is a practical reason to build something. Sometimes **the problem is interesting and shipping it is reason enough**.
+I like the whole process: understanding the problem, working through the messy parts, refining the details, and finally putting the result out there. Sometimes there is a practical reason to build something. Sometimes **the problem is interesting and shipping it is reason enough**.
 
 For me, the satisfying part is not just figuring something out. It is finishing it well enough to put it into the world.
 
