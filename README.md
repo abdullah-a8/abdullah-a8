@@ -77,31 +77,31 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260913" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260807" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260913" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260913" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260807" alt="Top Languages by Commits" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260913" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260913" alt="Top Languages by Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260810" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260913" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers&cachebust=20260701)
+![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers&cachebust=20260913)
 
 ## 📊 Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260722" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260722" alt="Isometric GitHub contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260913" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260913" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
