@@ -101,7 +101,7 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260913-2" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260913-2" alt="Isometric GitHub contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260921" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
