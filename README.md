@@ -78,21 +78,16 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&utcOffset=5&cachebust=20260921-mocha" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="Top Languages by Repository" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Top Languages by Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260921-mocha" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=true&cachebust=20260921-noborder" alt="GitHub Streak" />
 </p>
 
 ---

@@ -25,5 +25,5 @@ The tech icon block. The nine existing categories stay.
 _Avoid_: compact badge row, the site's five groups (on this Profile)
 
 **Card**:
-A GitHub proof widget on the Profile. The set is profile-details, stats, productive-time, repos-per-language, most-commit-language, streak, and the isometric contribution graph. Every Card uses Catppuccin Mocha.
-_Avoid_: trophy, GitHub Trophy, tokyonight, radical
+A GitHub proof widget on the Profile. The set is profile-details, stats, repos-per-language, streak, and the isometric contribution graph. Every Card uses Catppuccin Mocha, with no visible border.
+_Avoid_: trophy, GitHub Trophy, productive-time, most-commit-language, tokyonight, radical
