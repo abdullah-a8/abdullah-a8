@@ -1,107 +1,123 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&pause=1000&color=CBA6F7&width=750&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah;I+Love+Building+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=CBA6F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Hi%2C+I%27m+Abdullah;I+love+building+software" alt="Hi, I'm Abdullah" />
+</div>
 
-# 💫 About Me
-
-I enjoy taking software from an **idea** to something **running in the real world**.
-
-Most projects start with a problem I want to solve or something I think could work better: a repetitive task, a slow workflow, or a service that does not quite do what I need. Some become focused tools, while others grow into **complete systems that I design, deploy, and continue to improve**.
-
-I enjoy the whole process: understanding the problem, working through the messy parts, refining the details, and finally putting the result out there. Sometimes there is a practical reason to build something. Sometimes **the problem is interesting and shipping it is reason enough**.
-
-For me, the satisfying part is not just figuring something out. It is finishing it well enough to put it into the world.
-
-<a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/→_Check_Out_My_Portfolio-CBA6F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
-
-
-## 🔗 Connect
 <p align="center">
+  <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-CBA6F7?style=for-the-badge&amp;logoColor=1E1E2E" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" style="vertical-align: middle;" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1E1E2E" alt="LinkedIn" />
+  </a>
   <a href="mailto:hi@abdullahamin.dev">
-    <img src="./icons/Email.svg" height="48" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Email-CBA6F7?style=for-the-badge&amp;logo=gmail&amp;logoColor=1E1E2E" alt="Email" />
   </a>
 </p>
 
-# 💻 Tech Stack
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### About
+
+I take software from an idea to something running in the real world. The problem leads; the stack follows.
+
+I've written distributed shared memory in C, shipped Flutter apps, and a lot of command-line tools. The satisfying part is finishing it well enough to put it into the world.
+
+</td>
+<td width="42%" valign="top">
+
+### Current Focus
+
+- Retrieval and RAG
+- LLM pipelines
+- Computer vision
+- Systems programming
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,materialui,astro&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind,materialui,astro&perline=9" alt="Frontend" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,fastapi,java,cs,c,cpp,graphql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,fastapi,java,cs,c,cpp,graphql&perline=10" alt="Backend" />
 </p>
 
 <h3 align="center">Mobile & Desktop</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron&perline=8" alt="Mobile and Desktop" />
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&perline=8" alt="Databases" />
 </p>
 
 <h3 align="center">AI/ML & Data Science</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" alt="AI and ML" />
 </p>
 
 <h3 align="center">Cloud & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku&perline=8" alt="Cloud and Hosting" />
 </p>
 
 <h3 align="center">DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" alt="DevOps and Tools" />
 </p>
 
 <h3 align="center">Operating Systems & Editors</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim&perline=8" alt="Operating Systems and Editors" />
 </p>
 
 <h3 align="center">Game Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity&perline=8" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=unity&perline=8" alt="Game Development" />
+</p>
 
-<br/>  
+---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=tokyonight&cachebust=20260913-2" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=tokyonight&cachebust=20260913-2" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=tokyonight&utcOffset=5&cachebust=20260913-2" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/productive-time?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&utcOffset=5&cachebust=20260921-mocha" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=tokyonight&cachebust=20260913-2" alt="Top Languages by Repository" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=tokyonight&cachebust=20260913-2" alt="Top Languages by Commits" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/most-commit-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=313244&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-mocha" alt="Top Languages by Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260921" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260921-mocha" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-murex-eta.vercel.app/?username=abdullah-a8&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=-Followers&cachebust=20260913-2)
+---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260921" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921" alt="Isometric GitHub contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260921-mocha" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921-mocha" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
