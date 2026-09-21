@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=CBA6F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Hi%2C+I%27m+Abdullah;I+love+building+software" alt="Hi, I'm Abdullah" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=600&amp;color=CBA6F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Hi%2C+I%27m+Abdullah;I+love+building+software" alt="Hi, I'm Abdullah" />
 </div>
 
 <p align="center">
@@ -16,29 +16,13 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### About
+## About
 
 I take software from an idea to something running in the real world. The problem leads; the stack follows.
 
 I've written distributed shared memory in C, shipped Flutter apps, and a lot of command-line tools. The satisfying part is finishing it well enough to put it into the world.
 
-</td>
-<td width="42%" valign="top">
-
-### Current Focus
-
-- Retrieval and RAG
-- LLM pipelines
-- Computer vision
-- Systems programming
-
-</td>
-</tr>
-</table>
+Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems programming.
 
 ---
 

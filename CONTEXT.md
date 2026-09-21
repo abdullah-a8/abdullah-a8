@@ -17,8 +17,8 @@ The contact row directly under the Hero, with no section heading. Catppuccin Moc
 _Avoid_: skillicons, custom email SVG, Material Blue, email address on the badge, a Connect heading
 
 **About**:
-A two-column block. Left is About: durable site copy with no employer and no job title. Right is Current Focus: Retrieval and RAG, LLM pipelines, computer vision, systems programming.
-_Avoid_: process essay as the whole section, Qult, current role, four-paragraph README bio
+A single section of three paragraphs. Durable site copy with no employer and no job title, then current focus in the third paragraph: retrieval and RAG, LLM pipelines, computer vision, systems programming.
+_Avoid_: two-column table, process essay as the whole section, Qult, current role
 
 **Stack**:
 The tech icon block. The nine existing categories stay.
