@@ -91,7 +91,7 @@ For me, the satisfying part is not just figuring something out. It is finishing 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260913-2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=false&border=1E1E2E&cachebust=20260921" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
