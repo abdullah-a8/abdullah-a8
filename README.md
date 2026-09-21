@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="mailto:hi@abdullahamin.dev">
-    <img src="https://img.shields.io/badge/Email-hi%40abdullahamin.dev-7C5CBF?style=for-the-badge&amp;logo=gmail&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hi%40abdullahamin.dev-B4BEFE?style=for-the-badge&amp;logo=gmail&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amin-7C5CBF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amin-B4BEFE?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="LinkedIn" />
   </a>
   <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-abdullahamin.dev-7C5CBF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-abdullahamin.dev-B4BEFE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1E1E2E&amp;labelColor=74C7EC" alt="Portfolio" />
   </a>
 </p>
 

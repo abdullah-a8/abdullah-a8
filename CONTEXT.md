@@ -13,7 +13,7 @@ The top of the Profile. The typing SVG greeting is the only hero; there is no na
 _Avoid_: banner, identity rotator, name H1, title case on line 2
 
 **Connect**:
-The contact row directly under the Hero, with no section heading. Two-tone for-the-badge shields: Catppuccin sapphire label with icon, deep mauve value. Email, LinkedIn, and Portfolio, each showing the destination.
+The contact row directly under the Hero, with no section heading. Two-tone for-the-badge shields: Catppuccin sapphire label with icon, Catppuccin lavender value. Email, LinkedIn, and Portfolio, each showing the destination.
 _Avoid_: skillicons, custom email SVG, Material Blue, a Connect heading, solid single-color shields
 
 **About**:
