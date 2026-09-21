@@ -9,12 +9,12 @@ The GitHub README. Hiring-manager scan lives in the Hero, Connect, and About. En
 _Avoid_: portfolio, site, resume
 
 **Hero**:
-The top of the Profile. The typing SVG greeting is the only hero; there is no name heading. Lines are `Hi, I'm Abdullah` and `I love building software`, centered, JetBrains Mono, no emojis.
+The top of the Profile. The typing SVG greeting is the only hero; there is no name heading. Lines are `Hi, I'm Abdullah` and `I love building software`, centered, JetBrains Mono at size 35, no emojis.
 _Avoid_: banner, identity rotator, name H1, title case on line 2
 
 **Connect**:
-The contact row directly under the Hero, with no section heading. Catppuccin Mocha for-the-badge shields labeled Portfolio, LinkedIn, and Email.
-_Avoid_: skillicons, custom email SVG, Material Blue, email address on the badge, a Connect heading
+The contact row directly under the Hero, with no section heading. Two-tone for-the-badge shields: gray label with icon, deep mauve value with white text. Email, LinkedIn, and Portfolio, each showing the destination.
+_Avoid_: skillicons, custom email SVG, Material Blue, a Connect heading, solid single-color shields
 
 **About**:
 A single section of three paragraphs. Durable site copy with no employer and no job title, then current focus in the third paragraph: retrieval and RAG, LLM pipelines, computer vision, systems programming.

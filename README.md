@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=400&amp;color=CBA6F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Hi%2C+I%27m+Abdullah;I+love+building+software" alt="Hi, I'm Abdullah" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=35&amp;duration=2400&amp;pause=400&amp;color=CBA6F7&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=72&amp;lines=Hi%2C+I%27m+Abdullah;I+love+building+software" alt="Hi, I'm Abdullah" />
 </div>
 
 <p align="center">
-  <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-CBA6F7?style=for-the-badge&amp;logoColor=1E1E2E" alt="Portfolio" />
+  <a href="mailto:hi@abdullahamin.dev">
+    <img src="https://img.shields.io/badge/Email-hi%40abdullahamin.dev-7C5CBF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/abdullahamin8" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1E1E2E" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amin-7C5CBF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hi@abdullahamin.dev">
-    <img src="https://img.shields.io/badge/Email-CBA6F7?style=for-the-badge&amp;logo=gmail&amp;logoColor=1E1E2E" alt="Email" />
+  <a href="https://abdullahamin.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-abdullahamin.dev-7C5CBF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
