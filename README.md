@@ -18,7 +18,7 @@
 
 ## About
 
-I like taking software from an idea to something running in the real world. The problem leads; the stack follows.
+I take software from an idea to something running in the real world. The problem leads; the stack follows.
 
 I've written distributed shared memory in C, shipped Flutter apps, and a lot of command-line tools. The satisfying part is finishing it well enough to put it into the world.
 
