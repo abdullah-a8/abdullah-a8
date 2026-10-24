@@ -87,7 +87,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=true&cachebust=20261024" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=true&cachebust=20261024-2" alt="GitHub Streak" />
 </p>
 
 ---
