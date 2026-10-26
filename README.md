@@ -45,7 +45,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase&perline=8" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase,firebase&perline=8" alt="Databases" />
 </p>
 
 <h3 align="center">AI/ML & Data Science</h3>
