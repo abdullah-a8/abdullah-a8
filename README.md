@@ -22,7 +22,7 @@ I take software from an idea to something running in the real world. The problem
 
 I've written distributed shared memory in C, shipped Flutter apps, and a lot of command-line tools. The satisfying part is finishing it well enough to put it into the world.
 
-Right now I'm focused on retrieval and RAG, LLM pipelines, computer vision, and systems programming.
+Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems programming.
 
 ---
 
