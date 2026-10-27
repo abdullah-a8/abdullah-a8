@@ -60,7 +60,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gitlab,postman,gradle,cmake,bun,pnpm,selenium,bash&perline=12" alt="DevOps and Tools" />
 </p>
 
 <h3 align="center">Operating Systems & Editors</h3>
