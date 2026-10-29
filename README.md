@@ -26,7 +26,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 ---
 
-## Tech Stack
+## Stack
 
 <h3 align="center">Frontend</h3>
 <p align="center">
