@@ -65,7 +65,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">Operating Systems & Editors</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode&perline=8" alt="Operating Systems and Editors" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim&perline=8" alt="Operating Systems and Editors" />
 </p>
 
 <h3 align="center">Game Development</h3>
