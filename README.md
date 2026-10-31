@@ -55,7 +55,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">Cloud & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,heroku&perline=8" alt="Cloud and Hosting" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,azure,heroku&perline=8" alt="Cloud and Hosting" />
 </p>
 
 <h3 align="center">DevOps & Tools</h3>
