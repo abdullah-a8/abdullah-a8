@@ -30,7 +30,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,html,css,javascript,tailwind,materialui,astro&perline=9" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,astro,tailwind,html,css,javascript,materialui&perline=9" alt="Frontend" />
 </p>
 
 <h3 align="center">Backend</h3>
