@@ -97,6 +97,6 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260921-mocha" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921-mocha" alt="3D GitHub contribution chart" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921-mocha" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
