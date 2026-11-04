@@ -35,7 +35,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,java,cs,c,cpp,graphql&perline=10" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,c,cpp,java,cs,graphql&perline=10" alt="Backend" />
 </p>
 
 <h3 align="center">Mobile & Desktop</h3>
