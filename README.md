@@ -78,16 +78,16 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/profile-details?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20261105" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20260921-noborder" alt="Top Languages by Repository" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/stats?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20261105" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards-rose.vercel.app/api/cards/repos-per-language?username=abdullah-a8&theme=github_dark&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E&border_color=1E1E2E&icon_color=CBA6F7&chart_color=89B4FA&cachebust=20261105" alt="Top Languages by Repository" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=true&cachebust=20261024-2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zeta-pink.vercel.app/?user=abdullah-a8&theme=catppuccin_mocha&hide_border=true&cachebust=20261105" alt="GitHub Streak" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ Current focus is retrieval and RAG, LLM pipelines, computer vision, and systems 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20260921-mocha" />
-    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20260921-mocha" alt="Isometric GitHub contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-dark.svg?cachebust=20261105" />
+    <img src="https://raw.githubusercontent.com/abdullah-a8/github-readme/main/output/contribs-light.svg?cachebust=20261105" alt="Isometric GitHub contribution chart" />
   </picture>
 </p>
