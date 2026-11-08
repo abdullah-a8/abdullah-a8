@@ -1,0 +1,25 @@
+# Settings for the README cards: https://github.com/pedrocatalao/github-cool-readme
+# scripts/catppuccin.py recolours the output, and expects this style, colour and background.
+user: abdullah-a8
+show: [about, languages, summary]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: purple
+  background: 1e1e2e
+  border: false
+cards:
+  about:
+    headline: "The problem *leads*"
+    lines:
+      - "The stack follows."
+      - "I take software from an idea to something running in the real world."
+      - "I've written distributed shared memory in *C*, shipped *Flutter* apps, and a lot of command-line tools."
+      - "The satisfying part is finishing it well enough to put it into the world."
+    facts:
+      Focus: "Retrieval, RAG, LLM pipelines"
+      Also: "Computer vision, systems programming"
+  languages:
+    count: 5
