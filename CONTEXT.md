@@ -13,17 +13,17 @@ The top of the Profile. The typing SVG greeting is the only hero; there is no na
 _Avoid_: banner, identity rotator, name H1, title case on line 2
 
 **Connect**:
-The contact row directly under the Hero, with no section heading. Two-tone for-the-badge shields: Catppuccin teal label with icon, Catppuccin mauve value. Email, LinkedIn, and Portfolio, each showing the destination. Same pairing as the streak ring and streak number.
-_Avoid_: skillicons, custom email SVG, Material Blue, a Connect heading, solid single-color shields
+The contact row directly under the Hero, with no section heading. Two-tone for-the-badge shields in muted Catppuccin Mocha: surface1 label with a mauve icon, surface0 value. Email, LinkedIn, and Portfolio, each showing the destination.
+_Avoid_: skillicons, custom email SVG, Material Blue, a Connect heading, solid single-color shields, bright teal or mauve fills
 
 **About**:
-A single section of three paragraphs. Durable site copy with no employer and no job title, then current focus in the third paragraph: retrieval and RAG, LLM pipelines, computer vision, systems programming.
-_Avoid_: two-column table, process essay as the whole section, Qult, current role
+The animated About Card. A headline from the site copy, lines that scroll, and facts that take turns with current focus: retrieval and RAG, LLM pipelines, computer vision, systems programming. Durable copy with no employer and no job title. The headline does not repeat the Hero's greeting.
+_Avoid_: a Markdown About section, two-column table, process essay, Qult, current role, `Hi, I'm Abdullah` as the headline
 
 **Stack**:
-The tech icon block. The nine existing categories stay.
-_Avoid_: compact badge row, the site's five groups (on this Profile)
+The Core stack Card: twelve regularly used tools in a four-by-three box, taken from recent repositories. A static SVG at `assets/stack.svg`.
+_Avoid_: the nine-category icon wall, skillicons, listing everything ever used
 
 **Card**:
-A GitHub proof widget on the Profile. The set is profile-details, stats, repos-per-language, streak, and the isometric contribution graph. Every Card uses Catppuccin Mocha, with no visible border.
-_Avoid_: trophy, GitHub Trophy, productive-time, most-commit-language, tokyonight, radical
+A widget on the Profile. The set is About, Core stack, languages, and summary in two rows at 400×195, with the streak as a full-width strip beneath them. Every Card uses muted Catppuccin Mocha on a base panel with no border: subtext for text, surface for lines, mauve as the accent. The same Cards show on light and dark pages. `scripts/catppuccin.py` recolours the generated ones.
+_Avoid_: isometric contribution graph, profile-details, trophy, GitHub Trophy, productive-time, most-commit-language, GitHub language colours, tokyonight, radical
