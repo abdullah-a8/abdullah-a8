@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">About</title>
+<desc id="desc">The problem leads The stack follows. I take software from an idea to something running in the real world. I&#39;ve written distributed shared memory in C, shipped Flutter apps, and a lot of command-line tools. The satisfying part is finishing it well enough to put it into the world. Focus: Retrieval, RAG, LLM pipelines Also: Computer vision, systems programming</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #bac2de; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7f849c; letter-spacing: 0.04em; }
+  .secondary { fill: #a6adc8; }
+  .muted { fill: #7f849c; }
+  .icon { fill: #a6adc8; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .scroll { animation: scroll 13.2s ease-in-out infinite; }
+  @keyframes scroll { 0%, 22.73% { transform: translateY(0); } 71.21% { transform: translateY(-88px); } 93.94% { opacity: 1; } 100% { opacity: 0; transform: translateY(-88px); } }
+  .again { opacity: 0; animation: again 13.2s ease-in-out infinite; }
+  @keyframes again { 0%, 93.94% { opacity: 0; } 100% { opacity: 1; } }
+  .fact { opacity: 0; animation: fact 8.6s linear infinite backwards; }
+  @keyframes fact { 0% { opacity: 0; } 4.65%, 45.35% { opacity: 1; } 50%, 100% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="#1e1e2e" stroke="none"/>
+<text x="20" y="28" class="col">ABOUT</text>
+<g transform="translate(20 66)"><g class="fade" style="animation-delay: 200ms"><text style="font-size: 22px; font-weight: 700;">The problem <tspan fill="#cba6f7">leads</tspan></text></g></g>
+<clipPath id="about"><rect x="0" y="78" width="400" height="66"/></clipPath><g clip-path="url(#about)"><g class="scroll">
+<g transform="translate(20 94)"><g class="fade" style="animation-delay: 290ms"><text class="label secondary">The stack follows.</text></g></g>
+<g transform="translate(20 116)"><g class="fade" style="animation-delay: 380ms"><text class="label secondary">I take software from an idea to something running in</text></g></g>
+<g transform="translate(20 138)"><g class="fade" style="animation-delay: 470ms"><text class="label secondary">the real world.</text></g></g>
+<g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="label secondary">I&#39;ve written distributed shared memory in <tspan fill="#cba6f7">C</tspan>, shipped</text></g></g>
+<g transform="translate(20 182)"><g class="fade" style="animation-delay: 560ms"><text class="label secondary"><tspan fill="#cba6f7">Flutter</tspan> apps, and a lot of command-line tools.</text></g></g>
+<g transform="translate(20 204)"><g class="fade" style="animation-delay: 560ms"><text class="label secondary">The satisfying part is finishing it well enough to put</text></g></g>
+<g transform="translate(20 226)"><g class="fade" style="animation-delay: 560ms"><text class="label secondary">it into the world.</text></g></g>
+</g><g class="again">
+<g transform="translate(20 94)"><text class="label secondary">The stack follows.</text></g>
+<g transform="translate(20 116)"><text class="label secondary">I take software from an idea to something running in</text></g>
+<g transform="translate(20 138)"><text class="label secondary">the real world.</text></g>
+</g></g>
+<g class="fact" style="animation-delay: 0.00s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">FOCUS</text><text x="50" class="label">Retrieval, RAG, LLM pipelines</text></g></g></g>
+<g class="fact" style="animation-delay: 4.30s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">ALSO</text><text x="50" class="label">Computer vision, systems programming</text></g></g></g>
+</svg>

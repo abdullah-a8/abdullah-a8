@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Most used languages</title>
+<desc id="desc">TypeScript 38.0%, Python 35.5%, Dart 17.4%, Rust 1.6%, TeX 1.5%, Other 6.0%</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #bac2de; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7f849c; letter-spacing: 0.04em; }
+  .secondary { fill: #a6adc8; }
+  .muted { fill: #7f849c; }
+  .icon { fill: #a6adc8; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="#1e1e2e" stroke="none"/>
+<text x="20" y="28" class="col">MOST USED LANGUAGES</text>
+<mask id="bar"><rect class="grow" x="20" y="48" width="360" height="10" rx="5" fill="#fff"/></mask>
+<g mask="url(#bar)"><rect x="20.00" y="48" width="132.84" height="10" fill="#cba6f7"/><rect x="154.84" y="48" width="124.25" height="10" fill="#b4befe"/><rect x="281.09" y="48" width="60.95" height="10" fill="#89b4fa"/><rect x="344.04" y="48" width="5.76" height="10" fill="#74c7ec"/><rect x="351.81" y="48" width="5.24" height="10" fill="#94e2d5"/><rect x="359.05" y="48" width="20.95" height="10" fill="#6c7086"/></g>
+<g transform="translate(20 84)"><g class="fade" style="animation-delay: 200ms"><circle cx="5" cy="6" r="5" fill="#cba6f7"/><text x="16" y="11" class="label">TypeScript <tspan class="secondary">38.0%</tspan></text></g></g>
+<g transform="translate(200 84)"><g class="fade" style="animation-delay: 270ms"><circle cx="5" cy="6" r="5" fill="#b4befe"/><text x="16" y="11" class="label">Python <tspan class="secondary">35.5%</tspan></text></g></g>
+<g transform="translate(20 116)"><g class="fade" style="animation-delay: 340ms"><circle cx="5" cy="6" r="5" fill="#89b4fa"/><text x="16" y="11" class="label">Dart <tspan class="secondary">17.4%</tspan></text></g></g>
+<g transform="translate(200 116)"><g class="fade" style="animation-delay: 410ms"><circle cx="5" cy="6" r="5" fill="#74c7ec"/><text x="16" y="11" class="label">Rust <tspan class="secondary">1.6%</tspan></text></g></g>
+<g transform="translate(20 148)"><g class="fade" style="animation-delay: 480ms"><circle cx="5" cy="6" r="5" fill="#94e2d5"/><text x="16" y="11" class="label">TeX <tspan class="secondary">1.5%</tspan></text></g></g>
+<g transform="translate(200 148)"><g class="fade" style="animation-delay: 550ms"><circle cx="5" cy="6" r="5" fill="#6c7086"/><text x="16" y="11" class="label">Other <tspan class="secondary">6.0%</tspan></text></g></g>
+</svg>
